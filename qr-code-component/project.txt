@@ -1,0 +1,24 @@
+# Project
+
+1. Create HTML boilerplate
+2. Create a container div
+3. Inside the container div, create a card div.
+4. Inside the card div, create:
+-- img element
+-- div with class text:
+  -- h2 element
+  -- paragraph
+5. Link a CSS file
+6. Import the font family 'Outfit'
+7. Remove default margins and paddings from the html file * {margin: 0; padding: 0}, change box-sizing to be border-box;
+8. Make a body element to take 100vh, change display to flex, align items and justify content to center. 
+9. Change body background color according to style guide
+10. Create a card selector. Inside it, set max-width to be 360px. 
+11. .card: Set margins by X asis. 
+12. .card: Text should be aligned to center. 
+13. The card element should have rounded corners, and custom background color from the style guide.
+14. The image should take 100% of the parent element's width, and have rounded corners.
+15. Set custom color for h2
+16. Set custom color for paragraph.
+17. .text div should have paddings.
+18. h2 element should have a bottom padding.
