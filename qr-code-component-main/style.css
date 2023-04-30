@@ -17,35 +17,35 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    font-size: 15px;
+    font-size: 0.9375rem;
     background-color: var(--var-light-gray);
 }
 
-.container {
-    max-width: 360px;
-    margin: 0 auto;
+main {
+    max-width: 22.5rem;
 }
 
 .card {
     background-color: var(--var-white);
-    padding: 16px;
-    border-radius: 18px;
+    padding: 1rem;
+    border-radius: 1.125rem;
     text-align: center;
     margin: 0 1em;
 }
 
 .card img {
     width: 100%;
-    border-radius: 14px;
+    border-radius: 0.875rem;
 }
 
 .text {
-    padding: 22px 18px;
+    padding: 1.375rem 1.125rem;
 }
 
-.text h2 {
+.text h1 {
     color: var(--var-dark-blue);
-    padding-bottom: 15px;
+    padding-bottom: 1rem;
+    font-size: 1.375rem;
 }
 
 .text p {
